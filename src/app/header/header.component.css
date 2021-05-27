@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+.header-nav-container{
+	background-color: ghostwhite;
+    width: 100%;
+    font-size: x-large;
+    text-align: right;
+}
+
+.header-nav{
+	padding: 2%;
+}
+
+.button{
+    margin: 1%;
+    color: #606767;
+    text-decoration-line: none;
+}
+
+.header-nav a:hover {
+  border-bottom: 3px solid #2e84c6;
+}
+
+.header-nav a.active {
+  border-bottom: 3px solid #2e84c6;
+}
+
